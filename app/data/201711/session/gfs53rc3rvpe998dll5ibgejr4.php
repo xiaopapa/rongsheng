@@ -1,0 +1,1 @@
+<?php die();?>login%5Bid%5D:1,login%5Bname%5D:%E5%B0%8F%E6%98%8E,login%5Buser%5D:xiaoming%40qq.com
