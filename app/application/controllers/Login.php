@@ -56,6 +56,7 @@ class Login extends Bmax_Controller {
         $this->session('login', null);
         fun::cookie(SESSION_NAME, '', NOW - 1);
         fun::codeBack(-1);
+        echo 'hello world';
     }
 
 
